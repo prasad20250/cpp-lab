@@ -10,7 +10,7 @@ int main() {
   cout<< "concatenation:"<< greeting << endl ;
   
   //Substring
-  string part = greeting.substr (7,8);// Extracts, "World"
+  string part = greeting.substr (7,8);// Extracts, "Gaikwad"
   cout<< "Substring :" << part << endl ;
   
   //find
